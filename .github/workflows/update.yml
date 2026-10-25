@@ -33,11 +33,17 @@ jobs:
       - name: Merge worldwide EPG
         run: python worldwide-epg/merge.py
 
-      - name: Prepare GitHub Pages files
-        run: |
-          mkdir -p public
-          cp epg.xml.gz public/epg.xml.gz
-          touch public/.nojekyll
+ name: Prepare GitHub Pages files
+  run: |
+    mkdir -p public
+    find . -name "epg.xml.gz" -type f
+    EPG_FILE=$(find . -name "epg.xml.gz" -type f -print -quit)
+    if [ -z "$EPG_FILE" ]; then
+      echo "ERROR: epg.xml.gz was not generated"
+      exit 1
+    fi
+    cp "$EPG_FILE" public/epg.xml.gz
+    touch public/.nojekyll
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
