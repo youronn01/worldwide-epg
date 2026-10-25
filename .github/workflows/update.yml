@@ -28,7 +28,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r worldwide-epg/requirements.txt
 
       - name: Merge worldwide EPG
         run: python merge.py
