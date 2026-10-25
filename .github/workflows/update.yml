@@ -31,7 +31,7 @@ jobs:
         run: pip install -r worldwide-epg/requirements.txt
 
       - name: Merge worldwide EPG
-        run: python merge.py
+        run: python worldwide-epg/merge.py
 
       - name: Prepare GitHub Pages files
         run: |
