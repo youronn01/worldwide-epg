@@ -36,6 +36,10 @@ jobs:
       - name: Add IPTV-org channel ID aliases
         run: python worldwide-epg/add_playlist_aliases.py
 
+      - name: Merge verified external EPG guides
+        run: python worldwide-epg/merge_extra_guides.py
+
+
       - name: Audit worldwide EPG coverage
         run: python worldwide-epg/coverage_audit.py
 
