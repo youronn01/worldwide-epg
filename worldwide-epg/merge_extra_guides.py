@@ -1,3 +1,36 @@
+
+#!/usr/bin/env python3
+"""Fill uncovered XMLTV schedules using manually approved external guide mappings.
+
+Run after add_playlist_aliases.py and before coverage_audit.py.
+Only approved mappings are used. Existing programmes are never replaced.
+Check upstream providers' redistribution terms before publishing their data.
+"""
+import csv
+import gzip
+import logging
+import os
+import tempfile
+import urllib.request
+from collections import defaultdict
+from copy import deepcopy
+from pathlib import Path
+from lxml import etree
+
+GUIDE = Path('site/epg.xml.gz')
+MAPPINGS = Path('worldwide-epg/verified_extra_mappings.csv')
+SOURCES = {
+    'pluto': 'https://i.mjh.nz/PlutoTV/all.xml.gz',
+    'plex': 'https://i.mjh.nz/Plex/all.xml.gz',
+    'samsung': 'https://i.mjh.nz/SamsungTVPlus/all.xml.gz',
+    'roku': 'https://i.mjh.nz/Roku/all.xml.gz',
+}
+logging.basicConfig(level=logging.INFO, format='%(levelname)s %(message)s')
+
+
+def elements(stream):
+    """Yield fully populated detached XML elements without retaining parsed siblings."""
+    context = etree.iterparse(stream, events=('end',), tag=('channel', 'programme'), huge_tree=True)
     for _, node in context:
         yield deepcopy(node)
         parent = node.getparent()
