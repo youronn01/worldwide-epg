@@ -33,6 +33,9 @@ jobs:
       - name: Merge worldwide EPG
         run: python worldwide-epg/merge.py
 
+      - name: Add IPTV-org channel ID aliases
+        run: python worldwide-epg/add_playlist_aliases.py
+
       - name: Prepare GitHub Pages files
         run: |
           mkdir -p public
