@@ -39,6 +39,9 @@ jobs:
       - name: Audit worldwide EPG coverage
         run: python worldwide-epg/coverage_audit.py
 
+      - name: Discover worldwide EPG providers
+        run: python worldwide-epg/source_discovery.py
+
       - name: Upload coverage report
         uses: actions/upload-artifact@v4
         with:
