@@ -1,0 +1,803 @@
+source,source_channel_id,playlist_tvg_id,approved,verification_notes
+pluto,673247127d5da5000817b4d6,PlutoTVTrendingNow.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ba3fb9c4b078e0f37ad34e8,PlutoTVSpotlight.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68fbf8101d26140175db8b58,PlutoTVFranchiseFavorites.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64b585f84ea480000838e446,PlutoTVIcons.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,617b37b361e0fd0008cfd8c5,PlutoTVReaction.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5b64a245a202b3337f09e51d,PlutoTVFantastic.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5a4d3a00ad95e4718ae8d8db,PlutoTVComedy.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5b4e92e4694c027be6ecece1,PlutoTVDrama.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5a66795ef91fef2c7031c599,PlutoTVRomance.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,58af4c093a41ca9d4ecabe96,BETCinema.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68c32d88f56983aba40052bd,BETComedyMovies.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,663946c1b18d700008d9c168,BETVisionaries.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f4d8594eb979c0007706de7,PlutoTVCrimeMovies.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5b4e69e08291147bd04a9fd7,PlutoTVThrillers.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5c6dc88fcd232425a6e0f06e,PlutoTVTerror.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62ba60f059624e000781c436,00sReplay.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f4d86f519358a00072b978e,90sThrowback.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ca525b650be2571e3943c63,80sRewind.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f4d878d3d19b30007d2e782,70sCinema.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5cb0cae7a461406ffe3f5213,ParamountMovieChannel.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,561c5b0dada51f8004c4d855,ClassicMoviesChannel.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f4d863b98b41000076cd061,PlutoTVStaffPicks.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,58e55b14ad8e9c364d55f717,FlicksofFury.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5c2d64ffbdf11b71587184b8,TVLandSitcoms.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,633354b63df9700007f6a1b7,SitcomLegends.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6132619f9ddaa50007e7dd86,MoreTVSitcoms.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61326275b3c86a00078e4833,BETThrowbacks.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,686d61503484d6073283059d,BlackFamilySitcoms.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,580e87ff497c73ba2f321dd3,FunnyAF.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67882c1c7b11714b795c2008,SketchyAF.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ca671f215a62078d2ec0abf,ComedyCentralPlutoTV.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d48678d34ceb37d3c458a55,WildNOut.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f15e32b297f96000768f928,ClassicTVComedy.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61325d18f5166c00081b84e0,ClassicTVFamilies.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68939e206727ec919bb39061,HogansHeroes.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,634f3011f4fff20007431641,ILoveLucy.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60f75178e7f8aa0007e9c259,TheAndyGriffithShow.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d81607ab737153ea3c1c80e,TheAddamsFamily.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f7796e470510900070d4e3d,BeverlyHillbillies.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ef3977e5d773400077de284,ThreesCompany.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f7794a788d29000079d2f07,TheLoveBoat.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64d1606b4c5ed80008e3b8b9,Dynasty.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f15e3cccf49290007053c67,ClassicTVDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61325c4f982acd000723287e,ClassicTVCrimeDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6a2b0eab9465b98649cd0d2f,DiagnosisMurder.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6197086891ddd4000739941a,PerryMason.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5e8df4bc16e34700077e77d3,WesternTV.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60f75771dfc72a00071fd0e0,Gunsmoke.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68e9913c4a666b9054849832,Bonanza.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5e825550e758c700077b0aef,TheRifleman.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61f33318210549000806a530,ClassicMovieWesterns.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5efbd39f8c4ce900075d7698,StarTrek.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65c69bbfd77d450008c7ffee,StarTrekDeepSpaceNine.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69d7ebb726eeec84158e28cb,PlutoTVAdventure.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69d7ebff029c431826bd328e,BattlestarGalactica.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67352ed93a61d4000881f9fa,TheTwilightZone.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66c638726838ee00085ac20d,Andromeda.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62f54c11b3af68000702c304,CSIMiami.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62f54c6439183b000769fb8f,CSINY.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61b3b8c645b45d0007a9bb8d,BlueBloods.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f31fd1b4c510e00071c3103,PlutoTVCrimeDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69d6c7befde57cd5ba0160c3,PlutoTVHometownDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d40bebc5e3d2750a2239d7e,TVLandDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,613260e4bdb71c00070d63fa,MoreTVDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65775af3b3801200084a3aa4,FeelGoodDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f24662bebe0f0000767de32,SupernaturalDrama.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f4d83e0a382c00007bc02e7,BeverlyHills90210.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6532e6a9bdf3cf000887ab29,MoreTrueCrime.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5bb1af6a268cae539bcedb0a,ForensicFiles.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5812bcc8237a6ff45d16c407,SpikePlutoTV.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d8bf0b06d2d855ee15115e3,PlutoTVReality.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,60a3d889a5b3690008dc7fe8,BarRescue.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5c393cad2de254456f7ef8c2,SpikeOutdoors.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65c69bf23ef47d0008583967,ToughJobs.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d8beeb39b5d5d5f8c672530,PlutoTVLives.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5812b3a4249444e05d09cc46,PlutoTVCars.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,651f239d9c7aeb0008286823,DatingDisasters.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66abefe5d2d50d00082c7d12,VH1QueensofReality.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d51e2bceca5b4b2c0e06c50,BlackInkCrew.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d51ddf0369acdb278dfb05e,LoveHipHop.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,603fde9026ecbf0007752c2c,PlutoTVCompetition.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68757c45759366af05b3b199,AmericasNextTopModel.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d40855b3fb0855028c99b6f,DCCMakingtheTeam.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60807fd5db701400078219c2,InkMaster.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6661f11a41af6400080e90d8,BigBrother.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f21e8a6e2f12b000755afdb,TheAmazingRace.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d48685da7e9f476aa8a1888,TheChallenge.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ff8c708653d080007361b14,ParamountPlusPicks.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ca670f6593a5d78f0e85aed,BETPlutoTV.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ca672f515a62078d2ec0ad2,MTVPlutoTV.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ce5a8954311f992edbe1da2,LogoPlutoTV.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5873fc21cad696fb37aa9054,LiveMusic.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,643f035d5a0cd50008361534,ThePriceIsRight.us@HD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6036e7c385749f00075dbd3b,PlutoTVGameShows.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60f760bbdf090700075d7bfe,BestofDrPhil.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,687ff00ff6bc08130f16ab81,BeyondtheGates.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ebc8688f3697d00072f7cf8,BellatorMMA.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5fc54366b04b2300072e31af,PokerGo.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5bb3fea0f711fd76340eebff,PlutoTVMilitary.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5a4d35dfa5c02e717a234f86,PlutoTVHistory.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,563a970aa1a1f7fe7c9daad7,PlutoTVScience.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5877ac8cb791f4eb4a140d81,PlutoTVFood.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5d14fb6c84dd37df3b4290c5,PeppaPig.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6a70da97a4bf6cded4fdaf53,DoraTV.us@CA,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,51c75f7bb6f26ba1cd00002f,LittleStarsUniverse.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6452c814939a590008567a3b,90sKids.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6452c77ed3fdde00080eb3a8,90sKidsTV2.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60fb01a24795a6000762fe83,LEGOKidsTV.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5db0ad56edc89300090d2ebb,KidsMovieClub.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,56171fafada51f8004c4b40f,ForeverKids.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60faf9ddfcc1f200070a5932,GarfieldandFriends.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5812b7d3249444e05d09cc49,PlutoTVAnime.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67ed8f7e443f0671bc2b2368,PlutoTVAnimeMovies.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6793eaa4bc03978b9bc63db1,AnimexHIDIVE.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f7790b3ed0c88000720b241,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5cf968040ab7d8f181e6a68b,CinePremiere.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60fb2f47c133270007327375,Cineaventura.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d8d164d92e97a5e107638d2,CineAdrenalina.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d8d180092e97a5e107638d3,CineTerror.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f5136317aedfb0007016f93,CineAmor.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5cf96c0222df39f1a338d163,PlutoTVNovelas.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64dab1f835425100080e1e7b,AcapulcoShore.us@LatAm,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f4d882d5233170007ee880e,Misteriossinresolver.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5cf96b8f4f1ca3f0629f4bf1,Investiga.us@LatAm,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61d4c2817a823d00070ba53e,VevoTrueSchoolHipHop.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ad8d3a31b95267e225e4e09,PlutoTVMovies.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dbfedccc563080009b60f4a,PlutoTVThrillers.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dc3fc6b9133f500099c7d98,PlutoTVFamilyMovieClub.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5c363c2411c5ca053f198f97,PlutoTVComedyMovies.us@CA,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66276091cee0d900085fe053,SabrinaTheTeenageWitch.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66276091cee0d900085fe053,SabrinatheTeenageWitch.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,685041d936c9361b1921c26c,PlutoTVFantasyHorror.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6304f8d5ffb61000071ab478,CSICrimeSceneInvestigation.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65a6a7a00c7ff50008cba07b,PlutoTVCrimeDrama.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6960c5a906d76f50db2816dc,CagneyLacey.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60817936fd2d70000763d2b2,WildatHeart.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ddf91149880d60009d35d27,PlutoTVDrama.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,619247c34a270700077c8415,PlutoTVScifiSeries.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5e8db96bccae160007c71eec,Andromeda.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,680bb31c56ff83bcd685d64e,Farscape.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65a6a5e90c7ff50008cb9815,FunnyAF.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62f53dc6ee9a0400071dc22b,PlutoTVSitcoms.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,612f761008a9e50007984ba0,PlutoTVAnimation.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d767790d0438aceb41d03ae,PlutoTVCrime.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63808dc806aa4700075f319a,PlutoTVInvestigation.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,615af74dfe3d8e0007524511,OnTheCase.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,639b558c73423d00071ce624,MoreTVCrime.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5cb6f6f9a461406ffe4022cf,FBIFiles.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,692ebafce72f03e07e7df985,PlutoTVAmericanTrueCrime.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5e9ed47c26ebb000074af566,SensingMurder.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,611f85396abc84000738417b,BeyondBeliefFactorFiction.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60804d85858bd00007c5d591,ParanormalState.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5dc2c00abfed110009d97243,PlutoTVSherlock.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,622f48de713e510007f85808,Dynasty.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5d134a74ca91eedee1630faa,PlutoTVClassicTV.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6081738748d3200007afb24b,HighwaytoHeaven.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5bd8186d53ed2c6334ea0855,PlutoTVReality.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65a7b01907e03a0008913e8f,BestofDrPhil.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5d2c571faeb3e2738ae27933,5Cops.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65a7b0814a10d800085ff2df,PlutoTVPetrolHeads.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,600acaff5f2d6e000745effb,PlutoTVToughJobs.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ddf8ea0d000120009bcad83,PlutoTVAnimals.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5d9492c77ea6f99188738ff1,PlutoTVScience.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5d4ae94ef1a1bbb350ca41bb,PlutoTVConspiracy.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d4af1803e7983b391d73b13,PlutoTVHistory.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,625e8cb585ef320007806caf,PlutoTVBritainatWar.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ddf930548ff9b00090d5686,PlutoTVFood.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5c5c2b9d8002db3c3e0b1c6d,PlutoTVRetroToons.de@FR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ad8d54be738977e2c310940,PlutoTVKids.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,604f8f8622166000071a929f,BETPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68e8ffee9d1d49e672fe790f,TheYellowCouchwithJeremyLynch.de@GB,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65786888b228b7000843ad9a,PlutoTVZombies.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66b0dfa1d512590008bfa7fd,PlutoTVGoreSlasher.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f984f4a09e92d0007d74647,ArchivosForenses.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1acbed25948a0007ffbe65,LosarchivosdelFBI.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60c343007bcabe0007242aa6,ElComisario.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1aca8310a30e00074fab92,LosAsesinatosdeMidsomer.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65cf6ab58145cb0008129ca8,PlutoTVSeriescriminales.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1acce7f17797000718f9be,Anaylos7.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6475bfec536e0c0008858e9f,PlutoTVKDrama.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65ddec1ef7f0af0008be4b65,PlutoTVSeriesSciFi.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,60e45687313c5f0007bc8e94,Elencantadordeperros.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68adc697116b783a33f99e6c,PlutoTVImpacto.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61b9edc4a4ca6100070bb407,IcePilots.us@Germany,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65bd0f53dc10a40008e68b96,PlutoTVGasolina.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,686cd84603ad75cfd132d672,AmericasNextTopModel.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6385e82900ab2e000768a058,PlutoTVWestern.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f1ac1f1b66c76000790ef27,PlutoTVCineEstelar.us@LatAm,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f1ac8a87cd38d000745d7cf,PlutoTVThrillers.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65ce480a78df2200131c597b,PlutoTVPsycho.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1ac947dcd00d0007937c08,PlutoTVCineDrama.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,676e7b4a4bd636000819c6a7,SensaCineTVxPluto.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60cc807324d60a0007708dc8,PlutoTVCinedeautor.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,629a066860ef810008267b70,DetectiveConan.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,680ba8992472a7200a183eb5,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,608035b8d8705f0007260287,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,632c6df43d2bc5000751f621,InazumaEleven.us@France,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1abce155a03d0007718834,PlutoTVComediamadeinSpain.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68de3db35fc0afe85de0b843,ComediaalobestiadePlutoTV.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f28009b150b2500077766b8,Vayasemanita.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62ac3d7dc23b400008ae5b5a,MTVJerseys.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f98537a5a4341000733aefe,MTVEmbarazadaalos16.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1aadf373bed3000794d1d7,MTVOriginals.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1aab1d29b39600073e243f,PlutoTVKids.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f1aa9bcd8160700076d45d1,PlutoTVJunior.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61922be835f3910007fc58f6,Enelpuntodemira.us@Spain,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,600ae6a78d801e0007117d21,PlutoTVAnimales.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1acdaa8ba90f0007d5e760,PlutoTVCocina.de@ES,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67517fae5534bb0008187997,Actualidad360.es@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6abab1c8d33c7e25d227502e,PlutoTVFantastic.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6abab32a198ce62db3f7e54d,TVLandSitcoms.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67054838ec9d6d00082ee426,PlutoTVZombies.de@ES,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62ea3d24b8e02600071fa296,PlutoTVComedyMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62ea3c2e4823db00072788ed,PlutoTVActionMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69a9ae4d3bd16a4ed04240d7,PlutoTVRetroActionMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62bdb0bcd707b9000739d2e5,PlutoTVDramaMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e92178946c8000079a3160,PlutoTVComedy.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66e2a94d167a8b000813485d,TheConners.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,66bb3212fe11e5000883ea6b,MarriedwithChildren.us@UK,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e91c3add66e00007eeb24c,MorePlutoTVComedy.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,64f8a949f5b5e4000862467c,ComedyCentralAnimation.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,663115d923e24f000843b49c,SouthParkWelcometoCanada.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,64ca723a2bc49300081a8966,ThreesCompany.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a56adb02f9e0117d78f5b44,HogansHeroes.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a56ae15bd858f210ae007fe,ClassicTVComedy.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6565fefdc917a50008485cc6,TheBeverlyHillbillies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e9145ec07f2a00070e68dc,TheAndyGriffithShow.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63a2f1dda0d69700078b7cba,ILoveLucy.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68d25c623175a2780d051d3a,PlutoTVClassicTVVariety.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,63e20bd160bc8f0008b4c949,PerryMason.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,630f1e6073bd1800082107f0,PlutoTVRetroCrimeDrama.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69aee8a1acb7eb0bb68df641,PlutoTVRetroCrimeAction.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,66dad50215d2c60008d7afbd,PlutoClassicMovieWesterns.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,696e647b07ea70192d49f6a5,Bonanza.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,635659445b4c4700076d2ad1,WalkerTexasRanger.us@France,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,693adae77f21340ef9746f56,PlutoTVFBI.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e92708a7ce600007b2676a,PlutoTVCrimeDrama.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62e92392a3e6270007f562e8,ForensicFiles.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62bdaa32a1b2fd00076693e8,FBIFiles.us@UK,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6850335b5965a2fd49f7e36d,Andromeda.us@Spain,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e94ec74823db0007277a8f,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68d25b620a0f3829b116bb6f,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a56ae45c868f8fd9818d59a,7thHeaven.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655f2ee6c0fc88000877d26c,BarRescue.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67922858b83355184c699699,PlutoTVReality.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68b9b0dbf9cf3d7cb9f56d88,MTVJerseyShore.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,653bdb0fbdf3cf00089cc395,PlutoTVAdventure.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68679fc6bb46d0bdd38ac9a4,AmericasNextTopModel.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64f8a22a3efb510008245df0,TheChallenge.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655f2d713944b60008bc7e90,InkMaster.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64c2214c2a7f2200089a0c4b,ThePriceIsRight.us@HD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,666815f24b9fb400083f7e31,BestofDrPhil.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69173ce8abd4703b27f71d44,AnthonyBourdainPartsUnknown.us@UK,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e951258a26d40007b3034c,DoraTV.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,677f927554f43dad4b3258aa,GarfieldandFriends.us@US,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6408b41b83f58900081d91ad,PlutoTVRetroKid.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69c592dff0f1a7d732dc6e36,PlutoTVCars.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a7066ff2cfd341eb5f95300,CagneyLacey.de@GB,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64be64445dc166000899ce75,PlutoTVPolizeiserien.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64eddc3485efec00085b0369,PerryMason.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5e7b6c60fd20c50007910bf5,PlutoTVCrime.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67d984408d8dc3d7754dccf2,PlutoTVNordicCrime.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67ebbe32f7c5d70b903676ea,PlutoTVGoreSlasher.de@ES,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67ff7d9c7fc25e0e72451bc9,PlutoTVHorrorSerien.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60c716084d842c00085f6e64,ComedyCentralSouthPark.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,646b150a15939400089e2702,SouthParkOriginalVersion.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,622f40c901d4b70007ad7609,SabrinaTotalverhext.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,622f6e1e2792150007e0b2ff,AllehassenChris.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60afbad343e3840007164348,ChaosCity.us@Germany,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d4947590ba40f75dc29c26b,ComedyCentralPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6054a9f4bc8a5f000771504c,TakeshisCastle.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d767ab2b456c8cf265ce921,PlutoTVSitcoms.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6672f49f61a39900089db68e,PlutoTVDeutscheComedy.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64be826b0e086a0009d95779,DatingNakedUK.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,663e09e4b18d700008e48dcf,BIGBROTHERCLASSIC.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ce40f42ba7f7f5ea9518fe1,IcePilots.us@Germany,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6447dea7e94c380008dba94c,GermanyShore.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5caf325764025859afdd6c4d,MTVPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64b67f0424ade50008a3be17,DAZNDartsxPlutoTV.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64afe50c5dc16600087f3227,DAZNHeldinnenxPlutoTV.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5c5c3b948002db3c3e0b262e,PlutoTVMovies.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5dde47b63585b500099f74ec,PlutoTVKultfilme.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66337de656fc840008ff7a65,PlutoTVKultComedies.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5dc287ce3086a20009f5024c,PlutoTVRomance.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67f68bd2135aeda9ddf0ef54,PlutoTVAdultAnimation.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60afb576053df900076fa2f0,BeverlyHills90210.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68d2759a59fd82da3226492d,TheLWordWennFrauenlieben.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5dc190f7bfed110009d934c3,PlutoTVSerie.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,677e5a3d7bffa6000808dbf2,PlutoTVBritischeSerien.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68ada3395190a45dc9c445cf,PlutoTVHistorischeSerien.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65a67dd13af63d0008257f17,90210.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69492467ae33e24d916e56cf,PlutoTVStarTrekAnimation.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,663a163f8ea5560008a3f234,Andromeda.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64eddce19001910008df22b8,FBIFiles.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,617aad99b68ef100072608cd,PlutoTVMystery.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d767b1c126c65d0a307355f,PlutoTVHistory.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5d767ae7b456c8cf265ce922,PlutoTVAnimals.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60080e8a4bf36000076a81b1,N24Doku.de@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5be1c3f9851dd5632e2c91b2,PlutoTVNature.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ad9b8551b95267e225e59c1,PlutoTVExplore.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5dc280c9aa218c0009724b4b,PlutoTVFood.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5d767b4889bca2ce7b73ef2e,PlutoTVScience.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68ada3edf84960586ad31c7d,PlutoTVReportagen.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,608181d420fc8500075f612a,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,682453215c646751955e1204,PlutoTVWesternSerien.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,630dd3b2605f140007e002f5,PlutoTVWestern.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69b015c5d29cc97de7da4af8,PlutoTVHaialarm.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65a67c494a10d800085cab06,DrakeJosh.de@DACH,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f120e94a5714d00074576a1,PlutoTVCineSucessos.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f171d3442a0500007362f22,FilmesSuspense.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6479ff764f5ba5000878dfe2,PlutoTVCineCrime.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6806d62369aec5b19cd628c0,PlutoTVFilmesdeLuta.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f171f988ab9780007fa95ea,PlutoTVCineRomance.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1210d14ae1f80007bafb1d,PlutoTVCineDrama.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,663b9dc7cb3ea10008f1a0ce,PlutoTVBangBang.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66aa67493a4ad2000806d91b,PlutoTVTerrorTrash.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66c79a4262e5510008ff68a5,PlutoTVFilmesAventura.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f5a545d0dbf7f0007c09408,PlutoTVFilmesNacionais.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,663b9de4f999220008230fa8,PlutoTVNetmovies.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63eb9c5351f5d000085e8d7e,CSIMiami.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,69fcc8cfb83300b380051794,BlueBloods.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ff768b6a4c8b80008498610,BETPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,69162af591700f4c4c135c95,JornadanasEstrelasDeepSpaceNine.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69162b1ef189e235142b17ab,JornadanasEstrelasVoyager.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61f1d27a189ed10007b7393e,DiffrentStrokesArnold.us@Brazil,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ff609de50ab210008025c1b,Tokusato.us@Brazil,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f512365abe1f50007d3ff56,PlutoTVNovelas.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6077045b6031bd00078de127,MasterChef.us@Brazil,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1212fb81e85c00077ae9ef,MTVPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,645111f1d8436e00081bb2bd,MTVDrag.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,625463563b8ddc0007134aeb,MTVShore.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61a528267e1b8b0007357920,MTVComoEx.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f6108d8cc331900075e98e4,MTVAreyoutheOne.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66a01e07d2d50d0008100d6a,MTVRocks.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1213ba0ecebc00070e170f,PlutoTVNatureza.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6474aa984cfc2c0008883a92,PlutoTVAnimais.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f32d4d9ec194100070c7449,PlutoTVVidaReal.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6014761dfb91870008ea6463,PlutoTVTurbo.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6298bd10d88ef000073f16b7,SmithsonianChannelPlutoTV.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6806d65e84f24b70109485fa,PlutoTVAliens.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,678fdf9e3de7c8cf948e8824,PlutoTVPolicial.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f32d2db0af67400077f29c4,PlutoTVEsportes.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,609ae66b359b270007869ff1,ComedyCentralSouthPark.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f357e91b18f0b00073583d2,ComedyCentralPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f32d432d612e50007e56133,PlutoTVViagens.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1ef23020a5ac0007e5e8ea,PlutoTVCozinha.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,633ee9ba83c08f00076b60a6,PlutoTVKFOOD.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f12136385bccc00070142ed,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64c92f965580090008084968,NarutoShippuden.us@LatAm,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,624b1c8d4321e200073ee421,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f12141b146d760007934ea7,PlutoTVJunior.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f1214a637c6fd00079c652f,PlutoTVKids.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66c8cae7fed35b0008580ec0,PlutoTVKidsClub.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f5c216df68f920007888315,OReinoInfantil.us@Brazil,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63221bafdc6e110007b50270,OggyeasBaratasTontas.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6759eeb1bd523200083b4f29,AvatarAlendadeAang.us@BR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5ffcc5130fd98c0007f2e216,KenanKel.us@LatAm,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dcde437229eff00091b6c30,PlutoTVCineEstelar.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcddfcb229eff00091b6bdf,PlutoTVCineDrama.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dd7ea2aeab5230009986735,PlutoTVCineRomance.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ddc4e8bcbb9010009b4e84f,PlutoTVCineSuspenso.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,624af40c004f8000079b784d,PlutoTVCineCrimen.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5defde6d6c07b50009cf0757,PlutoTVNuestroCine.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6806d519fea7414f33f57016,PlutoTVCineInspirador.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dfcde52d28b09000a42d7a2,PlutoTVALaMexicana.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd6ddb30a1d8a000908ed4c,PlutoTVCineFamilia.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655f62ff954b020008c91ec6,PlutoTVSeriesdeCrimen.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,63eb9255c111bc0008fe6ec4,CSIMiami.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6764203df433320008836bc6,LosAsesinatosdeMidsomer.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a15f7770ed14e790bab6449,BlueBloods.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65662f8a2c46f300088a84cc,PlutoTVSeriesdeSciFi.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde1317578340009b751d0,PlutoTVSeries.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,655f626d57fe4a00085c7c3e,PlutoTVSeriesdeComedia.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,655f636d954b020008c93299,PlutoTVSeriesdeDrama.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6806d570c178637410ae4962,PlutoTVSeriesdeOtrosContinentes.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6185a9a88b2ce30007de5128,PlutoTVDramasCoreanos.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6661d5424b10960008599fa3,PlutoTVDramasCoreanosTeen.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd837642c6e9300098ad484,PlutoTVSeriesLatinas.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5de802659167b10009e7deba,PlutoTVSeriesRetro.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde0cc2efd2700090b7ff4,PlutoTVNovelas.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,686eed4c677f2f98b4a1ccd4,PlutoTVNovelasdeOtrosContinentes.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6474a86917f5e100089a0c1c,PlutoTVNovelasdeVenezuela.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,698a45156dc3c71eb1ba6599,PlutoTVAmoryMentiras.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde197f6591d0009839e04,PlutoTVReality.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64510d3ad3fdde00080951f2,MTVDrag.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5fab088b3279760007d4e4fd,MTVPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,638693db857364000781b471,MTVConMiEx.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd6d935d000120009bc1132,PlutoTVCompetencias.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd85eac039bba0009e86d1d,PlutoTVNaturaleza.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,61099f2b40d0640007fc5aa2,Elencantadordeperros.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ddc266f80e3550009136843,PlutoTVAventura.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62154548a2be360007cb02f0,IcePilots.us@Germany,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dd6dc7480e3550009133d4a,PlutoTVVelocidad.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5df265697ec3510009df1ef0,PlutoTVVidaReal.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ddc503ac7ef120009b101a2,PlutoTVDocumentales.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,63a084934734f30007457b2c,SmithsonianChannelPlutoTV.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dcde2f53449c50009b2b4dc,PlutoTVMisterios.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5e67d41b93312100076f3fca,LosarchivosdelFBI.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5efb8c19b2678b000780d032,ArchivosForenses.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f610042272f68000867685b,Misteriossinresolver.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde07af1c85b0009b18651,PlutoTVDeportes.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5e98b0447665f200078caded,PlutoTVPeleas.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,609ae5cd48d3200007b0a98e,ComedyCentralSouthPark.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62d0895ebe7a970008785244,Daria.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5ffcc21a432945000762d06b,ComedyCentralPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dcde0657444a40009cd2422,PlutoTVEstilodeVida.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde17bf6591d0009839e02,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64c92fea3c3344000869e8a9,NarutoShippuden.us@LatAm,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ff4b9ccf938f8000779eb99,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ff608e60e2996000768c366,Tokusato.us@Brazil,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ff3934600d4c7000733ff49,PlutoTVESports.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde2ac4bc6c500094ab45b,PlutoTVJunior.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66c79221b1a34600087e264d,HeyArnold.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6759ee82bd523200083b4f0f,AvatarLaLeyendadeAang.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd6dae8ce788b0009eaf77b,PlutoTVKids.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66a01b52a4ee27000808ea36,MTVRocks.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6abab1c8d33c7e25d227502e,PlutoTVFantastic.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6abab32a198ce62db3f7e54d,TVLandSitcoms.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67054838ec9d6d00082ee426,PlutoTVZombies.de@ES,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62ea3d24b8e02600071fa296,PlutoTVComedyMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62ea3c2e4823db00072788ed,PlutoTVActionMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69a9ae4d3bd16a4ed04240d7,PlutoTVRetroActionMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62bdb0bcd707b9000739d2e5,PlutoTVDramaMovies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e92178946c8000079a3160,PlutoTVComedy.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66e2a94d167a8b000813485d,TheConners.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,66bb3212fe11e5000883ea6b,MarriedwithChildren.us@UK,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e91c3add66e00007eeb24c,MorePlutoTVComedy.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,64f8a949f5b5e4000862467c,ComedyCentralAnimation.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,663115d923e24f000843b49c,SouthParkWelcometoCanada.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,64ca723a2bc49300081a8966,ThreesCompany.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a56adb02f9e0117d78f5b44,HogansHeroes.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a56ae15bd858f210ae007fe,ClassicTVComedy.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6565fefdc917a50008485cc6,TheBeverlyHillbillies.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e9145ec07f2a00070e68dc,TheAndyGriffithShow.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63a2f1dda0d69700078b7cba,ILoveLucy.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68d25c623175a2780d051d3a,PlutoTVClassicTVVariety.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,63e20bd160bc8f0008b4c949,PerryMason.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,630f1e6073bd1800082107f0,PlutoTVRetroCrimeDrama.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69aee8a1acb7eb0bb68df641,PlutoTVRetroCrimeAction.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,66dad50215d2c60008d7afbd,PlutoClassicMovieWesterns.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,696e647b07ea70192d49f6a5,Bonanza.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,635659445b4c4700076d2ad1,WalkerTexasRanger.us@France,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,693adae77f21340ef9746f56,PlutoTVFBI.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e92708a7ce600007b2676a,PlutoTVCrimeDrama.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62e92392a3e6270007f562e8,ForensicFiles.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62bdaa32a1b2fd00076693e8,FBIFiles.us@UK,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6850335b5965a2fd49f7e36d,Andromeda.us@Spain,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e94ec74823db0007277a8f,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68d25b620a0f3829b116bb6f,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a56ae45c868f8fd9818d59a,7thHeaven.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655f2ee6c0fc88000877d26c,BarRescue.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67922858b83355184c699699,PlutoTVReality.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68b9b0dbf9cf3d7cb9f56d88,MTVJerseyShore.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,653bdb0fbdf3cf00089cc395,PlutoTVAdventure.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68679fc6bb46d0bdd38ac9a4,AmericasNextTopModel.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64f8a22a3efb510008245df0,TheChallenge.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655f2d713944b60008bc7e90,InkMaster.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64c2214c2a7f2200089a0c4b,ThePriceIsRight.us@HD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,666815f24b9fb400083f7e31,BestofDrPhil.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69173ce8abd4703b27f71d44,AnthonyBourdainPartsUnknown.us@UK,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62e951258a26d40007b3034c,DoraTV.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,677f927554f43dad4b3258aa,GarfieldandFriends.us@US,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6408b41b83f58900081d91ad,PlutoTVRetroKid.us@CA,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,69c592dff0f1a7d732dc6e36,PlutoTVCars.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f8ed4dbf6bb0800071ffbcb,PlutoTVPolar.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,684bf01df7d8b74b625b7dd1,PlutoTVBrigadeCriminelle.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66f55a9a747bfa0008521859,BlueBloods.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,60afa749ac7f3200078adb40,WalkerTexasRanger.us@France,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66b4990746762a00084c2f78,PlutoTV90sClassics.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f8ed2d1c34c2300073bf02c,SeriesbyPlutoTV.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f8ed6d569d2d4000864a976,LouisLaBrocante.us@France,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60549c238c3f21000753d3e0,Lemiracledelamour.us@France,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60549e98061b5f000776866a,InstantSaga.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62f3e0522443200008c567d7,PlutoTVFrenchCollection.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f914f4b36d67d0007a91a04,TrueCrimebyPlutoTV.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6683cd2fca74680008772545,InvestigationbyPlutoTV.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f8edad922b10b000753bc37,DossiersFBI.us@France,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f8edb6df1ebb800072edf10,LesNouveauxDetectives.us@France,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6683b680efa2a10008e8a393,Daria.us@LatAm,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62f3e8ad2a8e8000077b013d,DetectiveConan.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,691b3669c48674840c3b832a,PlutoTVANIMEGO.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6380c94947c72b0007ee9a13,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,611e75226b7f420007c3f319,InazumaEleven.us@France,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,611e6a9b4bb5790007a6f0f8,PlutoTVRetroToons.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,682318568e6c0f2f6c6e0038,InkMaster.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6092544e7639460007d4835e,PlutoTVReality.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f92b56a367e170007cd43f4,MTVCLASSICS.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f8ed3892ed7bb000741a1d2,PlutoTVInside.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5f8ed48146ba9e00078424b6,PlutoTVCuisine.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60925a44f0350600075a1fdc,PlutoTVAnimaux.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,611e7811eb9daf000764cbfd,PlutoTVAventure.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,652557d93fd33c000802f995,PlutoTVSuperKids.de@FR,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,611e6ddc7fcd580007d1eb5f,PlutoTVKidsClub.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f8ecb336537e8000764a17f,PlutoTVJunior.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,685a7fc00cba305fd20ed869,PlutoTVPsycho.de@ES,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,60b9ff2722bfa400072676ef,PlutoTVSerie.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,60a2837f8154ab0007c4dcdf,LesorelleMcLeod.us@Italy,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,608aa777b907770007e5d05d,PlutoTVSerieCrime.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65cb78b83a116800079e2e35,CinCin.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65cb76ea11ced70008206b66,Dynasty.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,608aa20a2e7f270007c4878d,PlutoTVFilmAzione.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,608aa5e995132a00075f7005,PlutoTVFilmThriller.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64808a8c536e0c0008a276d1,PlutoTVLegamiLetali.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,608aa4a4cc92820007b663af,PlutoTVFilmRomantici.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,608aa512d67fd900072323db,PlutoTVFilmCommedia.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62e7fb67478a5b0007e6c50c,PlutoTVWestern.de@DACH,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,661f8f01801af800083d9d81,PlutoTVAlbertoSordi.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,608aa7d8359b270007861489,PlutoTVCinemaItaliano.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6911c9704316999535eb21cf,PlutoTVNottidiPassione.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6786235bd648bf0008c2780a,PlutoTVCinemaOrientale.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68750875759366af05a151ce,PlutoTVFilmStorici.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67ed14aaf7c5d70b9089c3bf,PlutoTVSerieSciFi.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60802d37ee238e0007c94e64,Andromeda.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64ec5cf50f73a800081310a5,ForensicFiles.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66177d18c8311c0008d077d0,StorieCriminali.es@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60e4507a06171800072339a3,IlBancodeiPugni.us@Italy,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61fbd3f0733df400076c9a2d,IlTestimone.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67e3b0d2443f0671bc8a1297,PlutoTVShore.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60940a07d88ba90007b9cb71,16AnnieIncinta.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,609404b0a8ec810007d8de9d,PlutoTVScherzierisate.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69affcad8940750a23a7231a,OnePiece.us@US,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,612375086abc84000738fc03,InazumaEleven.us@France,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65b90daed77d450008a43345,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,608aa718a8ec810007d87fee,PlutoTVCucina.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60801976f92a750007a0699c,PlutoTVRealLife.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63c923944207be0007fd0887,PlutoTVViaggi.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,608aa8a5709d6b0007b132fe,PlutoTVDocumentari.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65253fdf3fd33c00080214a3,PlutoTVStoria.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,60802b37709d6b0007b0c549,PlutoTVNatura.de@IT,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6a902f6374f26b7e6d880253,TheAddamsFamily.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1db901346480007b7c345,ParadiseHotel.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1dda0fe470d00080f85b8,Charterfeber.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c1de93244e500007581d69,EventyrligOppussing.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c1e060197fe600073c1ffb,Luksusfellen.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c1dce2fb9ae40007d0ac15,CampKulinaris.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1dc21b9587d0007e3fc15,Boligjakten.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,660bff5724e1d000085b7c07,SouthParkArmageddon.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,664f0ecc41af640008e37b43,SouthParkIntotheStars.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,664f1370f78a8500092df452,SouthParkRockinOut.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,693ae4b616c2bba998852c21,TheLWord.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6728ca75529ac9000830ab14,7thHeaven.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62beb7d7fbf54600076abc7b,Wildfire.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63dbe78051f5d000083e9249,Numb3rs.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68c014ee337652ee75dab43b,HighwaytoHeaven.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,693ae65fab5959c036fa6c1e,HouseofLies.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6400c228498393000878a9b7,StarTrekMovies.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655ca99dfbc15b00081f209c,PlutoTVJohnWayne.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6728d30cdaad7f000881d979,NonStopKungFu.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1e3a679a4390007c78136,PlutoTVKomedie.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63dbe80f60bc8f0008aa7c78,PlutoTVKultfilmer.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63a19bb5e6914b000721b5c0,PlutoTVRomantikk.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68c01b9a6bdcf3b9a64febcc,PlutoTVHarlequin.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62beb44e3afd120007915d1b,ViafreeMovies.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63047bd6b0726b000795341d,MerryChristmasfromViafree.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1e0f1d6d97900076ea16f,LuksusfellenSverige.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67a09e25c070cf00083c40fa,BritainsNextTopModel.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6464cd7c7cb4b100086c71c9,AmericasNextTopModel.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,692edcff77f0147d69f19498,DatingNakedUK.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1e1c445b45d0007aad03e,UngaMammor.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64e77016324d190008291c13,DallasCowboysCheerleaders.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,632afc466699570007ed1106,BestofMTV.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6728c87cc7626f0008b28149,JerseyShoreFamilyVacation.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68dfa1a7fae18f8db6218222,RidiculousnessNyeepisoder.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c1d6e1f5acaf0007f8381d,PimpMyRide.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1db8ed6d97900076ea15c,AreYouTheOne.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,682b3932faaa60cd7dbf87b4,IronChef.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62a0ae8b2241f500073e0925,WalkerTexasRanger.us@France,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,668bf91208d5490008065ffd,DiagnosisMurder.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68c01785b3900870ec7480e4,PlutoTVWildWest.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a426ea9a1c1cd6c590e17e4,StarTrekDeepSpaceNine.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6178156e54712100072d6b2b,Andromeda.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,699c1bd39a3f3bb4887e045e,Farscape.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6512d3a0bdcb19000799cc82,TheTwilightZone.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,619e259fd8b672000729b1d7,GhostDimension.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1e74354d923000731bf7c,PlutoTVOvernaturlig.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65c0973311ced7000808d255,TheDailyShow.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64eca23c9c1e390008524ae6,NordiskkrimfraViaplay.se@NO,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6181262dc68b92000780fed2,ForensicFiles.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61815067b9802500076e16e0,FBIFiles.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62cd9f1cda044a00077b8f41,OnTheCase.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,677d3a424bd63600082f7baf,PlutoTVVerdenskrigene.se@DK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62cd9fee6187a70007784cdd,IcePilots.us@Germany,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c1e7f38413090007c640db,ComedyCentralPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65cba778ec452d0008acbe86,BroadCity.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,693ae58fc2d0f38be38df821,CrazyExGirlfriend.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65e977a618036500082ec972,ChappellesShow.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65e977874e01740008c9fb4c,Reno911.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65cba7573ba51e00084d76e1,KeyPeele.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6486e8328e3c0a0008e5686c,BeavisandButtHead.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,69afef233bd16a4ed07108e9,TheMillers.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,697b5a6c9567bf7b5f71a350,EverybodyHatesChris.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6512d3c96a84140008513ff5,SabrinaTheTeenageWitch.de@GB,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6512d3c96a84140008513ff5,SabrinatheTeenageWitch.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66a7aac9d512590008ab2dcb,CarolineintheCity.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6825eeeeb19ce6d4a34ebb2a,ManwithaPlan.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c18e1e0cd4cc00076bc4b3,ParadiseHotel.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65e97cd118036500082ed0ce,BestofParadiseHotelSkolveckan.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65e97d41f7f0af0008da2543,BestofParadiseHotelFinalveckan.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65e97d760d456100082da660,BestofParadiseHotelPandorasAsk.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6380c73f76e43f000721f73b,Paradise.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6a902fdde36a89b91e0801de,TheAddamsFamily.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,660d5f2a635c75000828855f,PlutoTVBuskis.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61f128f68a1dfc00086470af,SvenskaTruckers.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c1900995f417000731a002,UngaMammor.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c1921610d254000727eebd,SvenskaHollywoodfruar.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,660bff7dc8311c0008b4bdb4,SouthParkArmageddon.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,664f0eea0120f40008bf97d6,SouthParkIntotheStars.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,664f13aff9992200084a3532,SouthParkRockinOut.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,686faf533ffa5e0c912688e7,PlutoTVHandbollLive.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68dfa3e2cc3c6cd904052c41,PlutoTVHandbollHighlights.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,693ae4ee25e9a6646b198fb0,TheLWord.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6728cab6e482950008b76d8c,7thHeaven.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63dbe8a1c111bc0008dec8b8,Numb3rs.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62beb0de371e6c000775930c,Wildfire.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68c015dc6523408b14f54dee,HighwaytoHeaven.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,693ae6bf0ddf7d2a40b7fd35,HouseofLies.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6400c2a6cb41a40008dbe5bc,StarTrekMovies.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,655caaaac0fc8800086f5d99,PlutoTVJohnWayne.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6728d33f030a2c0008edf4be,NonStopKungFu.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c0b36d18447e000717d686,PlutoTVKomedi.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63dbe8c8a9957100087798a3,PlutoTVKultfilmer.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63a19da6847a090007f230da,PlutoTVRomantik.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68c01bed508ba507f0d0dd60,PlutoTVHarlequin.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62f64ec9eb1045000728cad6,ViafreeMovies.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6304854ac6073d0007259fe1,MerryChristmasfromViafree.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6464cdcaee6a2f000822a7a8,AmericasNextTopModel.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67a09e5921af38000808900a,BritainsNextTopModel.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,692edd6bdb8695f63e14f3b9,DatingNakedUK.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6400bf66dff38e00083f4ee8,CampKulinaris.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,64e7715c4c5ed800081230e4,DallasCowboysCheerleaders.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,632afdf820e83e000710ea12,BestofMTV.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6728c8b45534bb0008b31f35,JerseyShoreFamilyVacation.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68dfa1e7fae18f8db6218703,RidiculousnessNyaavsnitt.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c09a3894aa450007814aea,PimpMyRide.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c0ac242bb0cf0007015f89,AreYouTheOne.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c18ec6ac860c0007684981,StugfixarnaNorge.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,682b39defaaa60cd7dbfa5c3,IronChef.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63c6a7544faf1c0007b496d7,BuyingBlindDenmark.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62a0b114a1c8650007e93688,WalkerTexasRanger.us@France,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68c017bf337652ee75db201f,PlutoTVWildWest.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,668bf9be0642e5000815102d,DiagnosisMurder.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6a426f26fa7175aa69844a67,StarTrekDeepSpaceNine.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,617807a1a3a6160007f615e4,Andromeda.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,699c1c633d27d6da460bbcae,Farscape.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,619e4726b9997a00072a4059,GhostDimension.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6512d6c92ce8e40008bd5c81,TheTwilightZone.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65c0978360eb870008bc9d5b,TheDailyShow.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,618124b2e53c8d00077b37f8,ForensicFiles.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61814b9a9704450007e52316,FBIFiles.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62cdad7b5c38c00007f566c2,OnTheCase.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62cdaef300a4b3000739b1bf,IcePilots.us@Germany,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c0b550e0d3a700072b6a2a,ComedyCentralPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65cba7b1ec452d0008acbed8,BroadCity.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,693ae5b792fad2e93412a2c7,CrazyExGirlfriend.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65e9783b0d456100082d9e05,ChappellesShow.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65e9781a2873090008b48d8a,Reno911.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65cba798d77d450008d056e5,KeyPeele.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65a63ff00d9ab400080b101c,Klovn.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6486e8b48e3c0a0008e56914,BeavisandButtHead.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6825efbb9eed174f7ffbe5b0,ManwithaPlan.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,697b5be36dc3c71eb14d728a,EverybodyHatesChris.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69afef4b0306b277744de1e4,TheMillers.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,66a7ab4dcd0d3100084395b4,CarolineintheCity.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6512d72b473a540008592be5,SabrinaTheTeenageWitch.de@GB,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6512d72b473a540008592be5,SabrinatheTeenageWitch.se@SE,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6391df52d146a40007c265f3,TheNanny.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66b22714d512590008c3d573,DengulesofamedAllanSindberg.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6a902eaa99e7db5e8a5b33dc,TheAddamsFamily.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c19af83fae0a00078c8918,ParadiseHotel.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,662b71658dd8160008fc3abf,ParadiseHotelUnderlagnerne.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,629e095e511d4b00070c9f44,Paradise.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63a42df60cc44a0007dd47f8,RobinsonEkspeditionen.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c19c8c9863900007acaa57,FamilienfraBryggen.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,654a3fe6986ad20008a42add,LangtfraBryggen.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c19dcefbb4b50007d242e1,Forsidefruer.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,698ddf5a8c21a5f2d64c14a8,r8DioTV.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,69256bd7db5cc2f81d8a1a08,Tiljulefrokosthosr8Dio.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,643814ef479f6400086ff043,Mitplastikmareridt.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,660bff28516d260008479e23,SouthParkArmageddon.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,664f0eaa8ce31100088036bd,SouthParkIntotheStars.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,664f132c8ea5560008ce4d86,SouthParkRockinOut.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,619e1874e0d3a7000729a036,PlutoTVFishing.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,68921b2f4fa995eff24df6c8,NCISDetbedstemedTonyZiva.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6901d952ec12c3c759fdc7cd,NCISDetbedstemedGibbs.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6720bc6cdaad7f000872a6e2,2900Happiness.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,693ae48864476d678e9b6235,TheLWord.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6728c9c85534bb0008b320a4,7thHeaven.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68bff9a63efb41cd97562e46,HighwaytoHeaven.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62b9b63d3bbe9000073c0a2d,Wildfire.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,693ae62a43fe00a023e76e0d,HouseofLies.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6400c281dff38e00083f59da,StarTrekMovies.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655ca7aa635c3c000855d655,PlutoTVJohnWayne.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,67d2b814fe36d6e7b1d2318a,PlutoTVDanskeklassikere.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6728d2be529ac9000830dc15,NonStopKungFu.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63dbe7ed51f5d000083e9499,PlutoTVKultfilm.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,63a1c954d3897300079fcb12,PlutoTVRomantik.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68c01afa3efb41cd9759dafb,PlutoTVHarlequin.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62bebc3459624e00078209c3,ViafreeMovies.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63048147b09fd60007847a08,MerryChristmasfromViafree.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6464cc595a0cd500088c7749,AmericasNextTopModel.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,692edc78d52ea9e4858cf78f,DatingNakedUK.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6790d6c7bc03978b9bfbfd44,FBoyIsland.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,67a09ddc21af380008088dc3,BritainsNextTopModel.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64e87c6b28cec700088ceb55,DallasCowboysCheerleaders.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,632aff5e44111b00076ad9b1,BestofMTV.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68dfa160cc3c6cd90404d798,RidiculousnessNyeafsnit.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6728c831c7626f0008b28127,JerseyShoreFamilyVacation.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c091343bf4940007803e03,PimpMyRide.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c091c39863900007ac9e8f,AreYouTheOne.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63e3b33e8795f300087e6a46,Medknivenforstruben.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,61c1a05ef30f5d0007e562f3,TilMiddagHos.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,682b385876963fba9abf0f26,IronChef.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62a0aefc7c5f9f00075b4e24,WalkerTexasRanger.us@France,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,68c01732b3900870ec74766f,PlutoTVWildWest.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,668bf7dd74f5ec000817e6d1,DiagnosisMurder.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a426e053a96e5056db52261,StarTrekDeepSpaceNine.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6177fb39b68ef1000725e59e,Andromeda.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,699c1b4c9c3b075ecd513139,Farscape.us@SD,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6512ec9f3a0d700008db4f0c,TheTwilightZone.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,619e1bb3e9af5a0007f235ad,GhostDimension.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65c096d23ba51e0008305a75,TheDailyShow.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,660d6c0094db140008fe2f74,Breinholts.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,6181241c1a35d50007874c27,ForensicFiles.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61814659533163000748aa04,FBIFiles.us@UK,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62cd971cec90c20007081050,OnTheCase.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62b30b0060a9ca0007d628b4,PlutoTVDokumentar.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,677d397b60fbeb00084b0bff,PlutoTVVerdenskrigene.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,62cd97fb9f8154000727516c,IcePilots.us@Germany,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,61c0989431084d0007eab12d,ComedyCentralPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6641fd41b18d700008e7e2b8,ComedyCentralRoast.se@DK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,65e976ad0d456100082d9b74,ChappellesShow.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65cba73611ced700082123bc,BroadCity.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,693ae5660eedebc8d5db6579,CrazyExGirlfriend.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65e9766eec9fda0008cb418a,Reno911.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65cba715dc10a40008034917,KeyPeele.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6486e8984cfc2c0008b6844e,BeavisandButtHead.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,678f88bb272ded16b1558c5e,ManwithaPlan.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,63a1cab19ab2df0007bf1c8b,EverybodyHatesChris.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,69afeefa0a7f2095e768401c,TheMillers.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6512ecf63a0d700008db506a,SabrinaTheTeenageWitch.de@GB,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6512ecf63a0d700008db506a,SabrinatheTeenageWitch.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66a7aa44cd0d31000843942b,CarolineintheCity.se@SE,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6391cef9edb23c0008598cee,TheNanny.us@UK,true,Verified: IPTV-org stream URL embeds exact Pluto channel ID; XMLTV has programmes.
+pluto,5dcde437229eff00091b6c30,PlutoTVCineEstelar.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcddfcb229eff00091b6bdf,PlutoTVCineDrama.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dd7ea2aeab5230009986735,PlutoTVCineRomance.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ddc4e8bcbb9010009b4e84f,PlutoTVCineSuspenso.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,624af40c004f8000079b784d,PlutoTVCineCrimen.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5defde6d6c07b50009cf0757,PlutoTVNuestroCine.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6806d519fea7414f33f57016,PlutoTVCineInspirador.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dfcde52d28b09000a42d7a2,PlutoTVALaMexicana.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd6ddb30a1d8a000908ed4c,PlutoTVCineFamilia.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,655f62ff954b020008c91ec6,PlutoTVSeriesdeCrimen.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,63eb9255c111bc0008fe6ec4,CSIMiami.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6764203df433320008836bc6,LosAsesinatosdeMidsomer.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,6a15f7770ed14e790bab6449,BlueBloods.us@SD,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,65662f8a2c46f300088a84cc,PlutoTVSeriesdeSciFi.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde1317578340009b751d0,PlutoTVSeries.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,655f626d57fe4a00085c7c3e,PlutoTVSeriesdeComedia.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,655f636d954b020008c93299,PlutoTVSeriesdeDrama.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6806d570c178637410ae4962,PlutoTVSeriesdeOtrosContinentes.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6185a9a88b2ce30007de5128,PlutoTVDramasCoreanos.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6661d5424b10960008599fa3,PlutoTVDramasCoreanosTeen.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd837642c6e9300098ad484,PlutoTVSeriesLatinas.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5de802659167b10009e7deba,PlutoTVSeriesRetro.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde0cc2efd2700090b7ff4,PlutoTVNovelas.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,686eed4c677f2f98b4a1ccd4,PlutoTVNovelasdeOtrosContinentes.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6474a86917f5e100089a0c1c,PlutoTVNovelasdeVenezuela.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,698a45156dc3c71eb1ba6599,PlutoTVAmoryMentiras.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde197f6591d0009839e04,PlutoTVReality.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64510d3ad3fdde00080951f2,MTVDrag.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5fab088b3279760007d4e4fd,MTVPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,638693db857364000781b471,MTVConMiEx.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd6d935d000120009bc1132,PlutoTVCompetencias.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd85eac039bba0009e86d1d,PlutoTVNaturaleza.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,61099f2b40d0640007fc5aa2,Elencantadordeperros.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ddc266f80e3550009136843,PlutoTVAventura.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,62154548a2be360007cb02f0,IcePilots.us@Germany,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dd6dc7480e3550009133d4a,PlutoTVVelocidad.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5df265697ec3510009df1ef0,PlutoTVVidaReal.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ddc503ac7ef120009b101a2,PlutoTVDocumentales.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,63a084934734f30007457b2c,SmithsonianChannelPlutoTV.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dcde2f53449c50009b2b4dc,PlutoTVMisterios.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5e67d41b93312100076f3fca,LosarchivosdelFBI.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5efb8c19b2678b000780d032,ArchivosForenses.us@Spain,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5f610042272f68000867685b,Misteriossinresolver.us@SD,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde07af1c85b0009b18651,PlutoTVDeportes.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5e98b0447665f200078caded,PlutoTVPeleas.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,609ae5cd48d3200007b0a98e,ComedyCentralSouthPark.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,62d0895ebe7a970008785244,Daria.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5ffcc21a432945000762d06b,ComedyCentralPlutoTV.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5dcde0657444a40009cd2422,PlutoTVEstilodeVida.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde17bf6591d0009839e02,PlutoTVAnime.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,64c92fea3c3344000869e8a9,NarutoShippuden.us@LatAm,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ff4b9ccf938f8000779eb99,OnePiece.us@US,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ff608e60e2996000768c366,Tokusato.us@Brazil,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,5ff3934600d4c7000733ff49,PlutoTVESports.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dcde2ac4bc6c500094ab45b,PlutoTVJunior.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66c79221b1a34600087e264d,HeyArnold.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,6759ee82bd523200083b4f0f,AvatarLaLeyendadeAang.us@LatAm,false,Needs review: multiple Pluto IDs match playlist stream variants for same tvg-id
+pluto,5dd6dae8ce788b0009eaf77b,PlutoTVKids.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
+pluto,66a01b52a4ee27000808ea36,MTVRocks.us@BR,false,Not approved: no exact Pluto channel ID in playlist stream URL
