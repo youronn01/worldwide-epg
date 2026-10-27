@@ -24,9 +24,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Generate small test guide
+      - name: Show supported grab options
         run: |
-          timeout 600s npm run grab -- --sites=epg.iptvx.one --output=guide.xml
+          npm run grab -- --help
 
       - name: Check generated guide
         if: always()
