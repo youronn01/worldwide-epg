@@ -26,30 +26,44 @@ jobs:
 
       - name: Create small channel list
         run: |
+          
+      - name: Create small channel list
+        run: |
           python3 - <<'PY'
+          from pathlib import Path
           import xml.etree.ElementTree as ET
 
-          root = ET.Element('channels')
-          for channel_id in [
-              'BBCOne.uk',
-              'BBCNews.uk',
-              'CNN.us',
-              'DiscoveryChannel.us',
-              'NationalGeographic.us'
-          ]:
-              ET.SubElement(root, 'channel', {
-                  'site': 'epg.iptvx.one',
-                  'site_id': channel_id,
-                  'lang': 'en',
-                  'xmltv_id': channel_id
-              }).text = channel_id
+          source = Path(
+              'sites/epg.iptvx.one/epg.iptvx.one.channels.xml'
+          )
+          if not source.exists():
+              raise SystemExit(f'Source configuration missing: {source}')
 
-          ET.ElementTree(root).write(
+          root = ET.parse(source).getroot()
+          candidates = [
+              channel for channel in root.findall('channel')
+              if channel.get('xmltv_id')
+              and channel.get('site_id')
+          ]
+
+          if not candidates:
+              raise SystemExit('No usable source channel mappings found')
+
+          selected = candidates[:10]
+          output = ET.Element('channels')
+          for channel in selected:
+              output.append(channel)
+
+          ET.ElementTree(output).write(
               'test.channels.xml',
               encoding='utf-8',
               xml_declaration=True
           )
+          print(f'Selected {len(selected)} real source mappings')
+          for channel in selected:
+              print(channel.get('xmltv_id'), channel.get('site_id'))
           PY
+
 
       - name: Generate small test guide
         run: |
