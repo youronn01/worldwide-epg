@@ -1,0 +1,39 @@
+
+name: Test IPTV-org EPG
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out IPTV-org EPG
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          ref: master
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Find supported sources
+        run: |
+          ls -la
+          if [ -f SITES.md ]; then
+            head -n 80 SITES.md
+          fi
+
+      - name: Upload source list
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-org-supported-sources
+          path: SITES.md
+          if-no-files-found: warn
