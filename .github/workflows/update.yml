@@ -39,6 +39,10 @@ jobs:
       - name: Merge verified external EPG guides
         run: python worldwide-epg/merge_extra_guides.py
 
+        
+      - name: Merge EPGShare01 schedules
+        run: python worldwide-epg/merge_epgshare.py
+
 
       - name: Audit worldwide EPG coverage
         run: python worldwide-epg/coverage_audit.py
