@@ -7,7 +7,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
 
     steps:
       - name: Check out IPTV-org EPG
@@ -24,16 +24,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Find supported sources
-        run: |
-          ls -la
-          if [ -f SITES.md ]; then
-            head -n 80 SITES.md
-          fi
+      - name: Generate test XMLTV guide
+        run: npm run grab -- --sites=epg.iptvx.one --output=guide.xml
 
-      - name: Upload source list
+      - name: Upload generated EPG
         uses: actions/upload-artifact@v4
         with:
-          name: iptv-org-supported-sources
-          path: SITES.md
-          if-no-files-found: warn
+          name: iptv-org-test-epg
+          path: guide.xml
+          if-no-files-found: error
