@@ -24,9 +24,39 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Show supported grab options
+      - name: Create small channel list
         run: |
-          npm run grab -- --help
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+
+          root = ET.Element('channels')
+          for channel_id in [
+              'BBCOne.uk',
+              'BBCNews.uk',
+              'CNN.us',
+              'DiscoveryChannel.us',
+              'NationalGeographic.us'
+          ]:
+              ET.SubElement(root, 'channel', {
+                  'site': 'epg.iptvx.one',
+                  'site_id': channel_id,
+                  'lang': 'en',
+                  'xmltv_id': channel_id
+              }).text = channel_id
+
+          ET.ElementTree(root).write(
+              'test.channels.xml',
+              encoding='utf-8',
+              xml_declaration=True
+          )
+          PY
+
+      - name: Generate small test guide
+        run: |
+          timeout 600s npm run grab -- \
+            --channels=test.channels.xml \
+            --output=guide.xml \
+            --days=1
 
       - name: Check generated guide
         if: always()
