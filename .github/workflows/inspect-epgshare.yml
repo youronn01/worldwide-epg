@@ -21,8 +21,14 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install lxml
+      - name: Install dependencies
         run: pip install lxml
 
-      - name: Inspect worldwide guide
+      - name: Generate worldwide matching report
         run: python worldwide-epg/inspect_epgshare.py
+
+      - name: Upload matching reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: epgshare-worldwide-matching-report
+          path: epgshare-reports/
