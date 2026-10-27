@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate small test guide
         run: |
-          timeout 600s npm run grab -- --sites=epg.iptvx.one --limit=20 --output=guide.xml
+          timeout 600s npm run grab -- --sites=epg.iptvx.one --output=guide.xml
 
       - name: Check generated guide
         if: always()
