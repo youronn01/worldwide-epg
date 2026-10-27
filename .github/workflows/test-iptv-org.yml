@@ -49,7 +49,7 @@ jobs:
           if not candidates:
               raise SystemExit('No usable source channel mappings found')
 
-          selected = candidates[:10]
+          selected = candidates[:100]
           output = ET.Element('channels')
           for channel in selected:
               output.append(channel)
